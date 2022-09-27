@@ -15,5 +15,4 @@ I love vegetarian pizza and The Cheeseboard. Since I'm under quarantine and can'
 * [The Cheeseboard](https://cheeseboardcollective.coop/)
 
 ## Learn More
-- [FoodPlanning](https://github.com/xavi-pi/mealPlanner) -- my last project if you'd like a weekly menu given a list of recipes.
-- [Medium article of this project.](https://medium.com/@adenipx/the-secrets-of-vegetarian-pizza-decdb913a90)
+- [FoodPlanning](https://github.com/xavi-pi/mealPlanner) -- my last project if you'd like a weekly menu given a list of recipes
